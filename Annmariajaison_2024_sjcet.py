@@ -6,6 +6,7 @@ pensize(2)
 goto(10, -1.5)  # Move to the center
 pendown()
 
+
 # Draw the new circle
 color("dark slate blue")  # Color of the new circle
 begin_fill()
